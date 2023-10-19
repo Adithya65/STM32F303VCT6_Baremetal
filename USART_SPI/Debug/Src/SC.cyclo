@@ -1,0 +1,3 @@
+../Src/SC.c:10:6:setbit	1
+../Src/SC.c:15:6:clearbit	1
+../Src/SC.c:20:6:togglebit	1

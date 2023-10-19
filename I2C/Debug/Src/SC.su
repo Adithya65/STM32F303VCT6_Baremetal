@@ -1,0 +1,3 @@
+../Src/SC.c:10:6:setbit	16	static
+../Src/SC.c:15:6:clearbit	16	static
+../Src/SC.c:20:6:togglebit	16	static
