@@ -1,1 +1,1 @@
-# STMF303VCT6_Baremetal
+# STM32F303VCT6_Baremetal
