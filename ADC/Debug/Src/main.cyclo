@@ -1,5 +1,0 @@
-/home/adithyam/Downloads/stm/SC.h:5:6:setbit	1
-/home/adithyam/Downloads/stm/SC.h:10:6:clearbit	1
-/home/adithyam/Downloads/stm/SC.h:15:6:togglebit	1
-../Src/main.c:10:5:main	2
-../Src/main.c:96:6:ADC1_2_IRQHandler	1

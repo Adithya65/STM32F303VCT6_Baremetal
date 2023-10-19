@@ -1,7 +1,0 @@
-"./Src/SC.o"
-"./Src/SPI.o"
-"./Src/UART.o"
-"./Src/main.o"
-"./Src/syscalls.o"
-"./Src/sysmem.o"
-"./Startup/startup_stm32f303vctx.o"
